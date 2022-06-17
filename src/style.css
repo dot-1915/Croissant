@@ -12,3 +12,8 @@ a {
   padding: 50px;
   color: black;
 }
+
+img {
+  border-radius: 4px;
+  width: 300px;
+}
