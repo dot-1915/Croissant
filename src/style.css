@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(
+    109.8deg,
+    rgb(238, 9, 121) 42.8%,
+    rgb(255, 106, 0) 83.3%
+  );
+  text-align: center;
+  color: whitesmoke;
+}
+
+a {
+  padding: 50px;
+  color: black;
+}
